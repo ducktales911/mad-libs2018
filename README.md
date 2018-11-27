@@ -1,5 +1,5 @@
 # MadLibs
-App Studio Project 2
+App Studio Project 4
 
 Mad Libs is an app in which the user can make short stories by filling in blank placeholders. 
 There are 6 different stories that come with the app. When the "Get started button is pressed on the welcome screen, a 
@@ -11,7 +11,7 @@ the story will be shown.
 
 ![alt text](https://raw.githubusercontent.com/ducktales911/mad-libs2018/master/Schermafbeelding%202018-11-27%20om%2015.17.18.png)
 
-![alt text](https://raw.githubusercontent.com/ducktales911/mad-libs2018/blob/master/Schermafbeelding%202018-11-27%20om%2015.20.36.png)
+![alt text](https://raw.githubusercontent.com/ducktales911/mad-libs2018/master/Schermafbeelding%202018-11-27%20om%2015.20.36.png)
 
-![alt text](https://raw.githubusercontent.com/ducktales911/mad-libs2018/blob/master/Schermafbeelding%202018-11-27%20om%2015.20.15.png)
+![alt text](https://raw.githubusercontent.com/ducktales911/mad-libs2018/master/Schermafbeelding%202018-11-27%20om%2015.20.15.png)
 
